@@ -1,15 +1,17 @@
 {
   "files": {
-    "main.css": "/Kitchen-MUFU/static/css/main.f42fdfa8.css",
-    "main.js": "/Kitchen-MUFU/static/js/main.727b9e93.js",
+    "main.css": "/Kitchen-MUFU/static/css/main.ec2aabad.css",
+    "main.js": "/Kitchen-MUFU/static/js/main.8aa15ce0.js",
     "static/js/453.fdf39592.chunk.js": "/Kitchen-MUFU/static/js/453.fdf39592.chunk.js",
+    "static/media/bg.png": "/Kitchen-MUFU/static/media/bg.8c907af2700b069641af.png",
+    "static/media/fely_chef.png": "/Kitchen-MUFU/static/media/fely_chef.dd7788a23f90fdec66ab.png",
     "index.html": "/Kitchen-MUFU/index.html",
-    "main.f42fdfa8.css.map": "/Kitchen-MUFU/static/css/main.f42fdfa8.css.map",
-    "main.727b9e93.js.map": "/Kitchen-MUFU/static/js/main.727b9e93.js.map",
+    "main.ec2aabad.css.map": "/Kitchen-MUFU/static/css/main.ec2aabad.css.map",
+    "main.8aa15ce0.js.map": "/Kitchen-MUFU/static/js/main.8aa15ce0.js.map",
     "453.fdf39592.chunk.js.map": "/Kitchen-MUFU/static/js/453.fdf39592.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f42fdfa8.css",
-    "static/js/main.727b9e93.js"
+    "static/css/main.ec2aabad.css",
+    "static/js/main.8aa15ce0.js"
   ]
 }
