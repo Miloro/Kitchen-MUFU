@@ -1,0 +1,9 @@
+{
+  "short_name": "K-MHFU",
+  "name": "Kitchen MHFU",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
